@@ -28,10 +28,6 @@ npm login
 ```
 
 ```bash
-npm publish --dry-run
-```
-
-```bash
 npm publish
 ```
 
